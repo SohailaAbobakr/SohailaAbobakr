@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/SohailaAbobakr)
 <h1 align="center">Hi 👋, I'm Sohaila Mahmoud</h1>
-<h3 align="center">🌱 I’m passionate about Data Science, Machine Learning, NLP and Artificial intelligence</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/fetch/w300-preview/45/4506286b09eb01f68eadc08c336fcee1.gif">
+<h3 align="center">🌱 I’m passionate about Data Science and Machine Learning</h3>
+<img align="right" alt="Coding" width="350" src="https://i.gifer.com/fetch/w300-preview/45/4506286b09eb01f68eadc08c336fcee1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohailaabobakr&label=Profile%20views&color=0e75b6&style=flat" alt="sohailaabobakr" /> </p>
 
