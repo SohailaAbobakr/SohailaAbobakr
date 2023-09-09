@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/SohailaAbobakr)
+[![MasterHead](https://cdn.techjuice.pk/wp-content/uploads/2020/06/zjseb2fe4gFpkmhoYhTkgQ-1.jpg)](https://github.com/SohailaAbobakr)
 <h1 align="center">Hi 👋, I'm Sohaila Mahmoud</h1>
 <h3 align="center">🌱 I’m passionate about Data Science and Machine Learning</h3>
 <img align="right" alt="Coding" width="350" src="https://i.gifer.com/fetch/w300-preview/45/4506286b09eb01f68eadc08c336fcee1.gif">
